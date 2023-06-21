@@ -8,7 +8,7 @@
 > 
 > 团结、勇气和绝不动摇的忠诚是人类最大的优点。——《动物园规则怪谈》
 
-* [在线阅读](https://g4g-sys.apachecn.org)
+* [在线阅读](https://g4g-sys.flygon.net)
 ## 下载
 
 ### Docker
